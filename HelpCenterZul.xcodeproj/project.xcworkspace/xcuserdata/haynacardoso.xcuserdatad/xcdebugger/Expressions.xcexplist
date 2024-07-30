@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainViewController.collectionView(_:numberOfItemsInSection:):MainViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailViewController.searchBar(_:textDidChange:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "filteredArticles">
+            </PersistentString>
+            <PersistentString
+               value = "article.title.localizedCaseInsensitiveContains(searchText)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

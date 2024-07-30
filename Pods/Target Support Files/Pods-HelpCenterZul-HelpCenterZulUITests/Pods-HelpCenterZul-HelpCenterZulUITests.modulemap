@@ -1,0 +1,6 @@
+framework module Pods_HelpCenterZul_HelpCenterZulUITests {
+  umbrella header "Pods-HelpCenterZul-HelpCenterZulUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
